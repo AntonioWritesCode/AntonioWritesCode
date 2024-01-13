@@ -5,8 +5,8 @@ Programming,
 and a bunch of other stuff.
 
 - 🌱 I’m currently learning:
-Web development,
-VR/AR (soon),
+Web development
+VR/AR
 Game Design
 
 <!---
